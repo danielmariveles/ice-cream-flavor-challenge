@@ -1,0 +1,15 @@
+{
+  "name": "ice-cream-flavor-challenge",
+  "version": "1.0.0",
+  "description": "Technical Exam Answer",
+  "main": "index.js",
+  "scripts": {
+    "server": "lite-server"
+  },
+  "keywords": [],
+  "author": "Daniel Mariveles",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
